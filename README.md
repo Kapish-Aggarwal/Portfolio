@@ -52,8 +52,7 @@ portfolio/
 ### Run locally
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
+git clone https://github.com/Kapish-Aggarwal/Portfolio.git
 ```
 
 Then just open `index.html` in your browser — no install or build step needed.
