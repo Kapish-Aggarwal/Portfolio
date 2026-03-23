@@ -6,7 +6,7 @@ A personal portfolio website built with vanilla HTML, CSS, and JavaScript. Desig
 
 ## 🖥️ Live Preview
 
-> Deploy to [Vercel](https://vercel.com) or [Netlify](https://netlify.com) and add your live URL here.
+> https://kapish-aggarwal.github.io/Portfolio/
 
 ---
 
